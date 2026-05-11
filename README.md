@@ -1,16 +1,52 @@
-# React + Vite
+# Agency.ai - Digital Solutions Agency Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Agency.ai Homepage](app%20image.jpg)
 
-Currently, two official plugins are available:
+A modern, responsive digital agency website built with React and Tailwind CSS, featuring dark/light mode, smooth scrolling, and a fully functional contact form.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📋 Description
 
-## React Compiler
+Agency.ai is a professional digital solutions agency website that showcases services, portfolio work, team members, and provides a seamless way for clients to get in touch. The website features a clean, modern design with smooth animations and responsive layouts.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### ✨ Key Sections
+- **Hero Section** - Captivating headline "Turning imagination into digital impact" with call-to-action
+- **Trusted By** - Showcase of partner companies (Microsoft, Zoom, Rakuten, Coinbase, Airbnb, Google)
+- **Services** - Advertising, Content Marketing, Content Writing, Social Media
+- **Our Work** - Portfolio showcasing mobile app marketing, dashboard management, fitness app promotion
+- **Team** - Meet the passionate team of 8 members behind Agency.ai
+- **Contact Form** - Direct email integration for client inquiries with success alerts
+- **Footer** - Complete business information, quick links, services, and contact details
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack & Packages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Package | Version | Purpose |
+|---------|---------|---------|
+| React | 18.x | Frontend framework |
+| React DOM | 18.x | DOM rendering |
+| Vite | 5.x | Build tool and development server |
+| Tailwind CSS | 3.x | Utility-first CSS framework |
+| React Hooks | - | State management (useState) |
+
+## 🚀 Features
+
+- 🌓 **Dark/Light Mode** - Seamless theme switching
+- 📱 **Fully Responsive** - Mobile, tablet, and desktop optimized
+- 🔗 **Smooth Scrolling** - Navigation with scroll-smooth behavior
+- ✉️ **Contact Form** - Direct email client integration with mailto
+- 🎨 **Modern UI** - Clean design with hover effects and transitions
+- ⚡ **Fast Performance** - Built with Vite for optimal loading speed
+- 🖼️ **Dynamic Icons** - Light/dark mode adaptive images
+- 📳 **Hover Animations** - Scale transforms and shadow effects
+
+## 🔮 Future Enhancements
+
+- **Backend Integration** - Connect contact form to Node.js/Express backend with Nodemailer for reliable email delivery and form data storage
+- **CMS Integration** - Add headless CMS (Strapi/Sanity) for dynamic content management of projects and team members
+- **Performance & SEO** - Implement lazy loading, image optimization, meta tags, and page transitions with React Router
+
+
+
+
+
+
+## 🏗️ Project Structure
