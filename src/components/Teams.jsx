@@ -114,7 +114,7 @@ const Teams = () => {
         </div>
       </div>
 
-      <footer className='bg-gray-900 dark:bg-black text-white px-4 sm:px-12 lg:px-24 xl:px-40 py-16'>
+      <footer className='bg-gray-905 dark:bg-black text-white px-4 sm:px-12 lg:px-24 xl:px-40 py-16'>
         <div className='max-w-6xl mx-auto'>
           <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10'>
             <div>
@@ -154,7 +154,7 @@ const Teams = () => {
           </div>
           
           <div className='border-t border-gray-800 mt-12 pt-8 flex flex-col sm:flex-row justify-between items-center gap-4'>
-            <p className='text-gray-400 text-sm'>© 2024 Agency.ai. All rights reserved.</p>
+            <p className='text-gray-300 text-sm'>© 2024 Agency.ai. All rights reserved.</p>
             <div className='flex gap-4 text-gray-400 text-sm'>
               <a href='#' className='hover:text-white transition-colors'>Privacy Policy</a>
               <a href='#' className='hover:text-white transition-colors'>Terms of Service</a>
